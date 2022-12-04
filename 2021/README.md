@@ -1,0 +1,1 @@
+Certain days are only partially done, or only have parsed input, as solving them requires use of mutable values (which are annoying and hard to use in Haskell). The exception being day5, where the solution works for the test input (due to its small size), but would require mutable data, too, to solve the true input.
