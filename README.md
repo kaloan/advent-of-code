@@ -1,6 +1,6 @@
 # Advent of Code
 
-## Dolutions to some problems
+## Solutions to some problems
 
 You can visit the official site [**here**](https://adventofcode.com/events) to look at the problems.
 
